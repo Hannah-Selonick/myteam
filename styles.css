@@ -1,0 +1,42 @@
+.index {
+
+  min-height: 600px;
+
+
+  background-size: cover;
+font-family: 'Knewave', cursive;
+text-align: center;
+
+}
+
+body{
+
+
+}
+
+h2{
+  color:#000080;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+
+
+      <table class="table table-striped", text-align=center>
+        <tr>
+          <td><strong>Kellogg Bands @ SPACE</strong></td>
+          <td>Tues, Jan 24 <br> Doors 9:00pm / Show 9:30pm</td>
+          <td>Space <br>1245 Chicago Ave, Evanston</td>
+          <td>$13</td>
+          <td><img src="images/space.png" width="100"></td>
+        </tr>
+        <tr>
+          <td><strong>Power Hour!</strong></td>
+          <td>Fri, Feb 10 <br> Doors 8:30pm / Show 9:00pm </td>
+          <td>Subterranean<br> 2011 W. North Ave, Chicago</td>
+          <td>$10</td>
+          <td><img src="images/Subterranean.png" width="100"></td>
+        </tr>
+
+      </table>
